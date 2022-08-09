@@ -1,0 +1,6 @@
+{
+    "name": "framework-arduinoespressif8266",
+    "description": "Arduino Wiring-based Framework (BrainBlock)",
+    "url": "https://github.com/Ardit-Labbox/brainblock/Arduino",
+    "version": "1.0.0-dev"
+}
